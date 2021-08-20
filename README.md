@@ -47,8 +47,6 @@ app.SetInputCapture(c.Capture)
 
 ## Documentation
 
-Documentation is available via [gdooc](https://docs.rocketnine.space/github.com/aight8/cbind).
-
 The utility program `whichkeybind` is available to determine and validate key combinations.
 
 ```bash
