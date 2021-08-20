@@ -1,5 +1,5 @@
 # cbind
-[![GoDoc](https://code.rocketnine.space/tslocum/godoc-static/raw/branch/master/badge.svg)](https://docs.rocketnine.space/code.rocketnine.space/tslocum/cbind)
+[![GoDoc](https://code.rocketnine.space/tslocum/godoc-static/raw/branch/master/badge.svg)](https://docs.rocketnine.space/github.com/aight8/cbind)
 [![Donate](https://img.shields.io/liberapay/receives/rocketnine.space.svg?logo=liberapay)](https://liberapay.com/rocketnine.space)
 
 Key event handling library for tcell
@@ -49,14 +49,14 @@ app.SetInputCapture(c.Capture)
 
 ## Documentation
 
-Documentation is available via [gdooc](https://docs.rocketnine.space/code.rocketnine.space/tslocum/cbind).
+Documentation is available via [gdooc](https://docs.rocketnine.space/github.com/aight8/cbind).
 
 The utility program `whichkeybind` is available to determine and validate key combinations.
 
 ```bash
-go get code.rocketnine.space/tslocum/cbind/whichkeybind
+go get github.com/aight8/cbind/whichkeybind
 ```
 
 ## Support
 
-Please share issues and suggestions [here](https://code.rocketnine.space/tslocum/cbind/issues).
+Please share issues and suggestions [here](https://github.com/aight8/cbind/issues).
